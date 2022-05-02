@@ -1,0 +1,43 @@
+body {margin: 0px;
+	font-family: 'Amatic SC', cursive;
+}
+header {
+	background-color: pink;
+	color: rgb(204, 0, 153);
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+.whitelink {text-decoration: none; color: deeppink;}
+nav {margin: 0px auto; text-align: center;}
+nav  ul {list-style-type: none; padding-left: 0px !important;}
+nav ul li {display: inline-block;
+	background-color: whitesmoke; 
+	padding: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+text-transform: uppercase;}
+.whitelink:hover {background-color: whitesmoke; color: rgb(204, 0, 153);}
+.active a {background-color: rgb(204, 0, 153); color: whitesmoke; 
+			padding: 8px;
+			border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	text-transform: uppercase;}
+
+		}
+
+#homeicon {font-size: 25px; padding: 5px;}
+
+#homeimage {width: 1200px;
+	height: auto;
+	padding: 0px auto;
+			margin-left: 1em;
+			border: 0px;
+			text-align: center !important;
+}
+#ericaimage {width: auto;
+height: 800px;
+margin: 1em;
+border: 0px;
+padding: 0px;
+text-align: center !important;}
