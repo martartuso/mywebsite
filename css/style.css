@@ -1,0 +1,6 @@
+body {font-family: 'Titillium Web', sans-serif !important;}
+h1, header p {text-align: center;}
+header{
+	height: 90vh;
+	background: url(../images/home.png)no-repeat center;
+}
